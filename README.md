@@ -144,12 +144,3 @@ jupyter notebook BrainTumorDetection.ipynb
 ```
 - Execute all cells to reproduce the analysis.
 
----
-
-## Future Work
-
-- Explore multi-class classification for different tumor types.
-- Integrate with real-time MRI systems for clinical use.
-- Optimize the model further with more extensive datasets.
-
-
